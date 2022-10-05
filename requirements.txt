@@ -1,0 +1,9 @@
+category_encoders==2.5.0
+imbalanced_learn==0.9.1
+imblearn==0.0
+matplotlib==3.5.3
+numpy==1.23.2
+pandas==1.4.3
+pandas_profiling==3.2.0
+scikit_learn==1.1.2
+seaborn==0.11.2
