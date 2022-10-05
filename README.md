@@ -12,8 +12,8 @@ see more details about this assignment here : https://github.com/syedjameel/ML-A
 
 ## Description:
 This Assignment consists of following files 
-1. Regression_task.py and regression.ipynb (The .py and .ipynb does same stuff, Recommend to run the .ipynb in jupyter notebook for better visuals)
-2. classification_task.py and classification.ipynb (The .py and .ipynb does same stuff, Recommend to run the .ipynb in jupyter notebook for better visuals)
+1. regression.ipynb (Recommend to run the .ipynb in jupyter notebook for better visuals)
+2. classification.ipynb (Recommend to run the .ipynb in jupyter notebook for better visuals)
 3. Report.pdf (A Report about this assignment)
 3. README.md (This file)
 4. ML AS1.pdf - It is the problem statement for this assignment
@@ -25,8 +25,8 @@ This Assignment consists of following files
 ## How to run:
 1. clone this branch : https://github.com/syedjameel/ML-Assignment-1.git
 2. go to ~/ML-Assignment-1-master folder
-3. Run the .ipynb files in jupyter notebook or Colab 
-3. Or Run the .py files in any IDE like Pycharm or in a Terminal.
+3. Run $ pip3 install -r requirements.txt
+4. Run the .ipynb files in jupyter notebook or Colab 
 
 
 Thanks for reading me :)
